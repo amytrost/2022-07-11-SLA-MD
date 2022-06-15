@@ -10,7 +10,7 @@ language: en
 latitude: 0     # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: 0       # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: Monday July 18 to Thursday July 21, 2022    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: 11:00 AM to 2:00 PM    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
+humantime: 10:00 AM to 1:00 PM    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
 startdate: 2022-07-18     # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2022-07-21        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Kristin Lee", "Andrea Medina-Smith", "Jesse Johnston", "Kathryn Miller"] 
